@@ -22,9 +22,9 @@
   
 # Rough MAP
   
-AMAZON RDS (MySQL)
-AMAZON ECR (Docker) 
-* {demonickrace/OpenFreePay}
-AMAZON VPC (NetWork)
+* AMAZON RDS (MySQL)
+* AMAZON ECR (Docker) 
+  * {demonickrace/OpenFreePay}
+* AMAZON VPC (NetWork)
   
 # Hack 'n' Roll  
