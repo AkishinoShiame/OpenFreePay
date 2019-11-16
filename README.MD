@@ -1,6 +1,6 @@
 {OpenFreePay}  
   
-![Imgur](https://imgur.com/ncXuk16)  
+![Imgur](https://imgur.com/ncXuk16.jpg)  
   
 # Concept
   
