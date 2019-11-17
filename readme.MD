@@ -23,3 +23,4 @@ What is AWS, I make a small joke:
 * EC2 = AMI: Windows_Server-2019-English-Full-Base-2019.10.09 (ami-0e48df3801c3e668e)
 * Docker image: openfreepay/Dockerfile
 * Amazon ECS = OpenFreePay-FrontEndPoint cluster
+* MicroServices = server/ folder
