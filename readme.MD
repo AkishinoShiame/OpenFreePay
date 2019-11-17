@@ -7,3 +7,8 @@ What is AWS, I make a small joke:
   
 ## Idea
   
+  
+## Structure
+  
+![Structure](snapshop.png)  
+  
