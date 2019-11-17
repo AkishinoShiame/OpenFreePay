@@ -1,0 +1,4 @@
+[submodule "FrontWeb-PHP"]
+	path = FrontWeb-PHP
+	url = https://github.com/hpcslag/aws-compt-web.git
+	branch = master
