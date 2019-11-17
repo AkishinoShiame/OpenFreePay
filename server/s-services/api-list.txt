@@ -1,0 +1,45 @@
+api list:
+
+Market Server:
+GET: /listMarketOrder (列出所有市場)
+
+POST: /createMarketOrder (建立訂單)
+body:
+ - src_point_type
+ - dest_point_type
+ - src_bid_points
+ - user_id
+
+-----------------------
+Orderbid Server:
+GET: /directlyOrder (直接完成交易)
+query:
+ - order_id
+ - user_id
+
+GET: /bidTheOrder (問價)
+query:
+ - src_point_type
+ - dest_point_type
+ - target_dest_ask_points
+ - user_id
+ - order_id
+
+GET: /listMyOrder (列出屬於我的訂單大項)
+query:
+ - user_id
+
+GET: /listMyOrderAndBidDetails (列出我的訂單, 子項目) 從上一個 api 會拿到 order_id 帶入
+query:
+ - order_id
+
+GET: /dealWithIt (我要跟問價者直接交易) 從上一個 API 會拿到 c_id 子項目編號
+query:
+ - c_id
+ - order_id
+
+GET: /listMyBid (列出我的問價)
+query:
+ - user_id
+
+ 
