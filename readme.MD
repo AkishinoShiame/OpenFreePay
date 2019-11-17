@@ -18,3 +18,8 @@ What is AWS, I make a small joke:
   
 ## Content
   
+#### Enviorment:
+* EC2 = AMI: ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20191002 (ami-0cd744adeca97abb1)
+* EC2 = AMI: Windows_Server-2019-English-Full-Base-2019.10.09 (ami-0e48df3801c3e668e)
+* Docker image: openfreepay/Dockerfile
+* Amazon ECS = OpenFreePay-FrontEndPoint cluster
