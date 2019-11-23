@@ -24,3 +24,12 @@ What is AWS, I make a small joke:
 * Docker image: openfreepay/Dockerfile
 * Amazon ECS = OpenFreePay-FrontEndPoint cluster
 * MicroServices = server/ folder
+  
+  
+## Easy Demo
+  
+![Login](DEMO/Login.png)  
+![Main](DEMO/Main.png)  
+![Pay](DEMO/Pay.png)  
+![Transcript](DEMO/Transcript.png)  
+![Transcript2](DEMO/Transcript2.png)  
