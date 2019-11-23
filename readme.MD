@@ -33,3 +33,6 @@ What is AWS, I make a small joke:
 ![Pay](DEMO/Pay.png)  
 ![Transcript](DEMO/Transcript.png)  
 ![Transcript2](DEMO/Transcript2.png)  
+  
+  
+`slack=openfreepay.slack.com`
